@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CP Calendar](https://github.com/karanarjunjr/cp-calendar)
 
-- 📫 How to reach me **arjunjay2001@gmail.com**
+- 📫 Reach me at **arjunjay2001@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
