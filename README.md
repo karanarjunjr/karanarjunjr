@@ -3,6 +3,8 @@
 
 - 🏆 I'm 4⭐ and a Video Editorialist on [CodeChef](https://www.codechef.com/users/karanarjunjr)
 
+- 👨‍💼 I lead the [CodeChef SASTRA Chapter](https://www.instagram.com/codechefsastra), a team of passionate programmers with the goal of making our campus's CP culture better, if not the best
+
 - 🌱 I’m currently learning **Graphs, Trees and Dynamic Programming**
 
 - 🔭 I’m currently working on [CP Calendar](https://github.com/karanarjunjr/cp-calendar)
