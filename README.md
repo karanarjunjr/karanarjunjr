@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun J</h1>
 <h3 align="center">A CSE undergrad from SASTRA University, a Competitive Programmer and a Web Developer</h3>
 
-- 🏆 I'm 4⭐ and a Video Editorialist on [**CodeChef**](https://www.codechef.com/users/karanarjunjr)
+- 🏆 I'm 5⭐ and a Video Editorialist on [**CodeChef**](https://www.codechef.com/users/karanarjunjr)
 
 - 👨‍💼 I lead the [**CodeChef SASTRA Chapter**](https://www.instagram.com/codechefsastra), a team of passionate programmers with the goal of making our campus's CP culture better, if not the best
 
